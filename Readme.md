@@ -158,7 +158,10 @@ Installation
 	$ cd xcode-themes
 	$ mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 	$ cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+	
+### ThemeInstaller app
 
+	Find and install ThemeInstaller[23] app in the app store. Open chosen theme and it's installed. Newly installed themes are visible after Xcode is restarted
 
 [1]:	http://michaelmangold.com/xcode-themes/
 [2]:	http://developers.enormego.com/view/ego_xcode_theme_for_xcode_4_egov2
@@ -182,6 +185,7 @@ Installation
 [20]:	https://github.com/bmeurer/XCasts-color-theme-for-Xcode-4
 [21]:	https://github.com/cargath/WWDC2016-Xcode-Color-Scheme
 [22]:	http://justyo.co/
+[23]:   https://itunes.apple.com/app/themeinstaller/id1148208665
 
 [image-1]:	http://s11.postimage.org/n1htzhccj/Blackboard.png
 [image-2]:	http://s11.postimage.org/m0hlacvcz/Coal_Graal.png
